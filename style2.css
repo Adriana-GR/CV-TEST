@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(181, 218, 235);
+}
+h1 {
+  color: #271919;
+}
+h2 {
+  color: rgb(67, 87, 128);
+}
+p {
+  color: rgb(37, 82, 102);
+}
+.company {
+  color: rgb(55, 52, 85);
+  text-decoration: underline;
+}
+.pozadie {
+  background-color: azure;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  padding: 5%;
+  border: 1px solid rgb(116, 110, 171);
+}
+table {
+  background-color: aliceblue;
+  border: 1px solid black;
+}
+table,
+td,
+th {
+  border: 1px solid rgb(116, 110, 171);
+  padding: 3%;
+  background-color: azure;
+}
+.advanced {
+  display: inline-block;
+  border: 1px solid rgb(39, 37, 37);
+  color: rgb(116, 110, 171);
+  text-decoration: dotted;
+  padding: 3px;
+  background-color: rgb(255, 255, 255);
+}
+.beginner {
+  display: inline-block;
+  color: rgb(67, 87, 128);
+  border: 1px solid rgb(163, 151, 151);
+  padding: 3px;
+  background-color: rgb(242, 242, 242);
+}
